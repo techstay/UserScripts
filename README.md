@@ -1,6 +1,6 @@
 # UserScripts
 
-一些有用的用户脚本
+一些用户脚本
 
 ## Stylus
 
